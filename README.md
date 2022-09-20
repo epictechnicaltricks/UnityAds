@@ -11,5 +11,5 @@ New Latest trick
 
 https://youtu.be/QoscWaBLEwQ
 
-#Demo APK Link for testing : 
+#DemoAPK Link for testing : 
 https://github.com/epictechnicaltricks/UnityAds/raw/main/app-debug.apk
